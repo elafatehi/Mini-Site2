@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+.container{
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    margin-top: 80px;
+    padding: 25px 0;
+    box-shadow:  0 0 15px gray;
+    border-radius: 5px;
+}
+.logo{
+    width: 150px;
+    border-radius: 50%;
+    border: 3px dotted gray;
+    display: block;
+    margin: auto;
+}
+.social{
+    background-color: lightgray;
+    text-align: center;
+    height: 60px;
+}
+.social img{
+    width: 40px;
+    margin: 10px;
+}
+.name{
+    margin: 25px auto;
+    border-bottom: 5px solid lightgray;
+    font-size: 25px;
+    width: 160px;
+}
+.desc{
+    text-align: center;
+}
